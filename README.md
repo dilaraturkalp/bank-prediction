@@ -1,1 +1,1 @@
-# bank-rediction
+# bank-prediction
