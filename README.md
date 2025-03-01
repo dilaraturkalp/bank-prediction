@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 
+<img width="1440" alt="Ekran Resmi 2025-03-01 14 56 25" src="https://github.com/user-attachments/assets/afcdab49-2216-4dd8-be1e-9f2339d5ddce" />
 
 # Bank Marketing Dataset Analysis and Model Deployment Using Ensemble Model
 
