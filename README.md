@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Bank Marketing Dataset Analysis and Model Deployment Using Ensemble Model
@@ -101,3 +102,6 @@ In this direction, the developed solution can be considered as an important tool
 - Pandas
 - Scikit-learn
 - Pickle
+=======
+# bank-prediction
+>>>>>>> d3e8afdeb373d12140d2ac5ab673040e1f3427e5
